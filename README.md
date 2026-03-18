@@ -7,7 +7,7 @@ WhiteBird Dream
 
 ### Overview
 
-**WhiteBird Dream Series** is a mobility and aerial development series created within the activities of **Gravity Space-Time Laboratory**.
+**WhiteBird Dream Series** is a mobility and aerial development series created within the activities of **Gravity Time and Space Resarch Institute**.
 
 This series is not limited to a single automobile.  
 It is a broader development concept that includes:
