@@ -207,7 +207,7 @@ WhiteBird Dream Series は、移動体を単なる乗り物として終わらせ
 
 ## Notes
 
-This series is part of the broader research and creative activities of **Gravity Space-Time Laboratory**.
+This series is part of the broader research and creative activities of **Gravity Time and Space Resarch Institute**.
 
 The purpose of this series is not limited to transportation alone.  
 It is intended as a development path toward future mobility, AI-linked systems, drone integration, and flying-object concepts.
